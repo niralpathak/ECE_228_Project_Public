@@ -1,0 +1,6 @@
+imutils==0.4.6
+Keras
+numpy==1.14.2
+matplotlib==2.1.0
+tqdm==4.19.2
+scikit_learn==0.19.1
